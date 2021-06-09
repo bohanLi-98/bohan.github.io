@@ -1,4 +1,4 @@
-## homepage of suzumiya
+## Homepage of suzumiya
 
 You can use the [editor on GitHub](https://github.com/suzumiya98/suzumiya98.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
