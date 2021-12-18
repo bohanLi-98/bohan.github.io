@@ -7,16 +7,13 @@
       <p><b>博士研究生在读</b></p>
       <p><b>北京航空航天大学宇航学院</b></p>
       <p><b>邮箱：PohanLi@buaa.edu.cn</b></p>
+      <p><b>主要研究方向：人工智能算法</b></p>
     </td>
     <td width="25%">
       <img src="bohanli.jpg" width="100%">
     </td>
   </tr>
 </table>
-
-北京航空航天大学  
-
-主要方向：人工智能算法  
 
 ### Paper List
 
